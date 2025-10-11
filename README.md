@@ -16,3 +16,5 @@ Welcome to my academic portfolio for Essential Tooling for Programmers course!
 
 ## Projects
 *This section will be updated as I complete assignments*
+
+Form study group with classmates
